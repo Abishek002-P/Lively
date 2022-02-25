@@ -1,3 +1,3 @@
 # Lively
 
-##An app which is similar to Zoom ⚡⚡⚡
+An app which is similar to Zoom ⚡⚡⚡
